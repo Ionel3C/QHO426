@@ -1,5 +1,5 @@
 while True:
   print("Enter your username")
   a = input()
-  if a == "john":
+  if a.upper() == "JOHN":
     break
