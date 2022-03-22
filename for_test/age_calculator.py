@@ -17,5 +17,5 @@ years_remaining = 90 - age_as_int
 days_remainig = years_remaining * 365
 months_remainig = years_remaining * 12
 weeks_remaining = years_remaining * 52
-message = f"You have {days_remainig} days, {weeks_remaining} weeks, and + {months_remainig} months left."
+message = f"You have {days_remainig} days, {weeks_remaining} weeks, and {months_remainig} months left."
 print(message)
