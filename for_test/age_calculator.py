@@ -1,4 +1,3 @@
-# def time():
 #   age(input("What is your curent age?    "))
 #   time_left = int(f"90 - age")
 #   x == 365
